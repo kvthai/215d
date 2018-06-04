@@ -1,16 +1,16 @@
-(envOpts enableArclength) nil
-(envOpts stopViewList) ("spectre")
-(envOpts pllWizardinfo) ""
+(envOpts firstRun) t
 (envOpts sst2usecolon) nil
-(envOpts analysisOrder) ("tran")
+(envOpts vcoType) ""
+(envOpts autoDisplay) t
+(envOpts printComments) nil
 (envOpts restart) ""
-(envOpts savestate) ""
+(envOpts analysisOrder) ("tran")
+(envOpts pllPlugin) ""
 (envOpts switchViewList) ("spectre" "cmos_sch" "cmos.sch" "schematic" "veriloga")
 (envOpts userCmdLineOption) ""
-(envOpts printComments) nil
-(envOpts pllPlugin) ""
-(envOpts autoDisplay) t
 (envOpts cmd64bit) nil
+(envOpts stopViewList) ("spectre")
+(envOpts enableArclength) nil
 (envOpts paramRangeCheckFile) ""
-(envOpts vcoType) ""
-(envOpts firstRun) t
+(envOpts pllWizardinfo) ""
+(envOpts savestate) ""
