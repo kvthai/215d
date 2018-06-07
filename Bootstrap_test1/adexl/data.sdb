@@ -73,94 +73,6 @@
 		<vars></vars>
 	</active>
 	<history>History
-		<historyentry>Interactive.3
-			<checkpoint>
-				<corners>
-					<corner enabled="1">_default</corner>
-				</corners>
-				<extensions>
-					<extension>Parasitics
-						<callback>_parSetupDBExtensionCB</callback>
-						<iconvalue></iconvalue>
-						<icontype></icontype>
-					</extension>
-				</extensions>
-				<currentmode>Single Run, Sweeps and Corners</currentmode>
-				<overwritehistory>0</overwritehistory>
-				<tests>
-					<test>215d:Bootstrap_test1:1
-						<tool>ADE</tool>
-						<tooloptions>
-							<option>cell
-								<value>Bootstrap_test1</value>
-							</option>
-							<option>lib
-								<value>215d</value>
-							</option>
-							<option>sim
-								<value>spectre</value>
-							</option>
-							<option>view
-								<value>schematic</value>
-							</option>
-							<option>path
-								<value>$AXL_SETUPDB_DIR/test_states</value>
-							</option>
-							<option>state
-								<value>215d:Bootstrap_test1:1_spectre_state1_Interactive.3</value>
-							</option>
-						</tooloptions>
-						<origoptions>
-							<option>cell
-								<value>Bootstrap_test1</value>
-							</option>
-							<option>lib
-								<value>215d</value>
-							</option>
-							<option>sim
-								<value>spectre</value>
-							</option>
-							<option>view
-								<value>schematic</value>
-							</option>
-							<option>path
-								<value>$AXL_SETUPDB_DIR/test_states</value>
-							</option>
-							<option>state
-								<value>spectre_state1</value>
-							</option>
-						</origoptions>
-					</test>
-				</tests>
-				<overwritehistoryname>Interactive.0</overwritehistoryname>
-				<plottingoptions>
-					<plottingoption>plottype
-						<value>None</value>
-					</plottingoption>
-					<plottingoption>usewaveformtemplate
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>waveformtemplate
-						<value></value>
-					</plottingoption>
-				</plottingoptions>
-				<vars></vars>
-			</checkpoint>
-			<timestamp>Wed May 30 16:03:02 2018</timestamp>
-			<resultsname>/w/home.10/ee/grad/vinhkhan/215a/215d/Bootstrap_test1/adexl/results/data/Interactive.3.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.3.rdb</simresults>
-			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
-			<netlistdelstrategy>SaveAll</netlistdelstrategy>
-			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps01.seas.ucla.edu_vinhkhan_160302110</localpsfdir>
-			<psfdir>/w/home.10/ee/grad/vinhkhan/simulation/215d/Bootstrap_test1/adexl/results/data/Interactive.3</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/Bootstrap_test1/adexl/results/data/Interactive.3</simdir>
-			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.10/ee/grad/vinhkhan/215a/215d/Bootstrap_test1/adexl/results/data/Interactive.3.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.3.log</runlogfile>
-			<schematicpoint></schematicpoint>
-			<test>all</test>
-		</historyentry>
 		<historyentry>Interactive.4
 			<checkpoint>
 				<corners>
@@ -674,8 +586,7 @@
 				</plottingoptions>
 				<vars></vars>
 			</checkpoint>
-			<timestamp>Mon Jun  4 11:46:12 2018
-</timestamp>
+			<timestamp>Mon Jun 4 11:46:12 2018</timestamp>
 			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/Bootstrap_test1/adexl/results/data/Interactive.9.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.9.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
@@ -763,8 +674,7 @@
 				</plottingoptions>
 				<vars></vars>
 			</checkpoint>
-			<timestamp>Mon Jun  4 11:48:14 2018
-</timestamp>
+			<timestamp>Mon Jun 4 11:48:14 2018</timestamp>
 			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/Bootstrap_test1/adexl/results/data/Interactive.10.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.10.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
@@ -852,8 +762,7 @@
 				</plottingoptions>
 				<vars></vars>
 			</checkpoint>
-			<timestamp>Mon Jun  4 11:50:19 2018
-</timestamp>
+			<timestamp>Mon Jun 4 11:50:19 2018</timestamp>
 			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/Bootstrap_test1/adexl/results/data/Interactive.11.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.11.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
@@ -941,8 +850,7 @@
 				</plottingoptions>
 				<vars></vars>
 			</checkpoint>
-			<timestamp>Mon Jun  4 11:55:18 2018
-</timestamp>
+			<timestamp>Mon Jun 4 11:55:18 2018</timestamp>
 			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/Bootstrap_test1/adexl/results/data/Interactive.12.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.12.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
@@ -954,6 +862,95 @@
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
 			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/Bootstrap_test1/adexl/results/data/Interactive.12.log</runlog>
 			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.12.log</runlogfile>
+			<schematicpoint></schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry>Interactive.13
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test>215d:Bootstrap_test1:1
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>Bootstrap_test1</value>
+							</option>
+							<option>lib
+								<value>215d</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>215d:Bootstrap_test1:1_spectre_state1_Interactive.13</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>Bootstrap_test1</value>
+							</option>
+							<option>lib
+								<value>215d</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>spectre_state1</value>
+							</option>
+						</origoptions>
+					</test>
+				</tests>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+				</plottingoptions>
+				<vars></vars>
+			</checkpoint>
+			<timestamp>Wed Jun  6 20:40:50 2018
+</timestamp>
+			<resultsname>/w/home.10/ee/grad/vinhkhan/215a/215d/Bootstrap_test1/adexl/results/data/Interactive.13.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.13.rdb</simresults>
+			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/eeapps02.seas.ucla.edu_vinhkhan_204050990</localpsfdir>
+			<psfdir>/w/home.10/ee/grad/vinhkhan/simulation/215d/Bootstrap_test1/adexl/results/data/Interactive.13</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/Bootstrap_test1/adexl/results/data/Interactive.13</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/w/home.10/ee/grad/vinhkhan/215a/215d/Bootstrap_test1/adexl/results/data/Interactive.13.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.13.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
