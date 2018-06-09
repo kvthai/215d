@@ -20,7 +20,7 @@ analysis(tran fields noisefmin) ""
 analysis(tran fields noisefmax) ""
 analysis(tran fields tranNoise) ""
 analysis(tran fields errpreset) ""
-analysis(tran fields stop) "25n"
+analysis(tran fields stop) "5n"
 analysis(tran fields enable) (t)
 analysis(tran options outputstart) ""
 analysis(tran options step) ""
