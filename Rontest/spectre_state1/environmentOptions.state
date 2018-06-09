@@ -2,7 +2,7 @@
 (envOpts userCmdLineOption) ""
 (envOpts restart) ""
 (envOpts vcoType) ""
-(envOpts analysisOrder) ("tran")
+(envOpts analysisOrder) ("dc")
 (envOpts savestate) ""
 (envOpts printComments) nil
 (envOpts cmd64bit) nil

@@ -1,0 +1,264 @@
+'(nil version 1.0 bBox ((278 247) (828 835)))
+(unless printInfoDpl
+printInfoDpl = (ncons nil)
+)
+(unless printInfoDpl->expTable
+printInfoDpl->expTable = (ncons nil)
+)
+printInfoDpl->expTable->waves = (let
+(tmp1)
+tmp1 = nil
+list(tmp1)
+)
+printInfoDpl->expTable->origWaves = (let
+(tmp1)
+tmp1 = nil
+list(tmp1)
+)
+printInfoDpl->expTable->expressions = (let
+(tmp1)
+tmp1 = "OP(\"NM0.xrg.r1\" \"??\")"
+list(tmp1)
+)
+printInfoDpl->expTable->aliases = (let
+(tmp1)
+tmp1 = "OP(\"NM0.xrg.r1\" \"??\")"
+list(tmp1)
+)
+(unless printInfoDpl->optionDpl
+printInfoDpl->optionDpl = (ncons nil)
+)
+printInfoDpl->optionDpl->format = 'suffix
+printInfoDpl->optionDpl->numSigDigits = 6
+printInfoDpl->optionDpl->linLog = "Linear"
+printInfoDpl->optionDpl->from = nil
+printInfoDpl->optionDpl->to = nil
+printInfoDpl->optionDpl->step = nil
+(unless printInfoDpl->printOptions
+printInfoDpl->printOptions = (ncons nil)
+)
+printInfoDpl->printType = "simple wave"
+printInfoDpl->origStrList = (let
+(tmp1 tmp2 tmp3 tmp4 tmp5 tmp6 tmp7)
+tmp1 = "signal                   OP(\"NM0.xrg.r1\" \"??\")"
+tmp2 = "i                          368.405p               "
+tmp3 = "lv2                        150.995m               "
+tmp4 = "pwr                         20.4934z              "
+tmp5 = "res                        150.995m               "
+tmp6 = "subckt_trise__               0                    "
+tmp7 = "v                           55.6273p              "
+list(tmp1 tmp2 tmp3 tmp4 tmp5 tmp6 tmp7)
+)
+printInfoDpl->title = nil
+printInfoDpl->xCol = nil
+printInfoDpl->width = 21
+printInfoDpl->numSpaces = 4
+printInfoDpl->noMerge = nil
+printInfoDpl->resultsDir = nil
+printInfoDpl->resultName = nil
+printInfoDpl->unitList = (let
+(tmp1 tmp2)
+tmp1 = ""
+tmp2 = ""
+list(tmp1 tmp2)
+)
+printInfoDpl->waveNameList = (let
+(tmp1 tmp2)
+tmp1 = "signal"
+tmp2 = "OP(\"NM0.xrg.r1\" \"??\")"
+list(tmp1 tmp2)
+)
+(unless printInfoDpl->context
+printInfoDpl->context = (ncons nil)
+)
+printInfoDpl->context->runObjFile = "runObjFile"
+printInfoDpl->context->netlistDir = "/w/home.17/ee/grad/stark/simulation/Rontest/spectre/schematic/netlist"
+printInfoDpl->context->relativeDir = "/w/home.17/ee/grad/stark/simulation/Rontest/spectre"
+printInfoDpl->context->dataDir = "/w/home.17/ee/grad/stark/simulation/Rontest/spectre/schematic"
+(unless printInfoDpl->context->cache
+printInfoDpl->context->cache = (ncons nil)
+)
+printInfoDpl->context->cache->VDC = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1 tmp2)
+tmp1 = "/gnd!"
+tmp2 = "/w/home.17/ee/grad/stark/simulation/Rontest/spectre/schematic"
+list(tmp1 tmp2)
+)
+tmp2 = 0.0000000000000000e+00
+list(tmp1 tmp2)
+)
+tmp2 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1 tmp2)
+tmp1 = "/VDC"
+tmp2 = "/w/home.17/ee/grad/stark/simulation/Rontest/spectre/schematic"
+list(tmp1 tmp2)
+)
+tmp2 = 1.1000000000000001e+00
+list(tmp1 tmp2)
+)
+list(tmp1 tmp2)
+)
+printInfoDpl->context->cache->OP = (let
+(tmp1 tmp2 tmp3)
+tmp1 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1 tmp2 tmp3)
+tmp1 = "NM0.xrg.r1"
+tmp2 = "??"
+tmp3 = "/w/home.17/ee/grad/stark/simulation/Rontest/spectre/schematic"
+list(tmp1 tmp2 tmp3)
+)
+tmp2 = nil
+list(tmp1 tmp2)
+)
+tmp2 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1 tmp2 tmp3)
+tmp1 = "/NM0"
+tmp2 = "??"
+tmp3 = "/w/home.17/ee/grad/stark/simulation/Rontest/spectre/schematic"
+list(tmp1 tmp2 tmp3)
+)
+tmp2 = nil
+list(tmp1 tmp2)
+)
+tmp3 = (let
+(tmp1 tmp2)
+tmp1 = 'time
+tmp2 = 1528528841
+list(tmp1 tmp2)
+)
+list(tmp1 tmp2 tmp3)
+)
+printInfoDpl->context->cache->opPointDevices = (let
+(tmp1 tmp2 tmp3)
+tmp1 = (let
+(tmp1 tmp2 tmp3 tmp4 tmp5)
+tmp1 = "NM0"
+tmp2 = "NM0.xrg.r1"
+tmp3 = "PM0"
+tmp4 = "PM0.xrg.r1"
+tmp5 = "V0"
+list(tmp1 tmp2 tmp3 tmp4 tmp5)
+)
+tmp2 = 1528528841
+tmp3 = 'OP
+list(tmp1 tmp2 tmp3)
+)
+(unless printInfoDpl->context->simData
+printInfoDpl->context->simData = (ncons nil)
+)
+printInfoDpl->context->simData->drl = nil
+(unless printInfoDpl->context->simData->instData
+printInfoDpl->context->simData->instData = (ncons nil)
+)
+printInfoDpl->context->simData->instData->dcOp\-dc = nil
+printInfoDpl->context->simData->instData->dcOpInfo\-info = nil
+printInfoDpl->context->simData->instData->modelParameter\-info = nil
+printInfoDpl->context->simData->dataDir = "/w/home.17/ee/grad/stark/simulation/Rontest/spectre/schematic"
+printInfoDpl->context->simData->simulator = "spectre"
+printInfoDpl->context->simData->aliasList = (let
+(tmp1 tmp2 tmp3 tmp4 tmp5 tmp6 tmp7 tmp8 tmp9)
+tmp1 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'designParamVals
+list(tmp1)
+)
+tmp2 = "designParamVals-info"
+list(tmp1 tmp2)
+)
+tmp2 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'primitives
+list(tmp1)
+)
+tmp2 = "primitives-info.primitives"
+list(tmp1 tmp2)
+)
+tmp3 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'subckts
+list(tmp1)
+)
+tmp2 = "subckts-info.subckts"
+list(tmp1 tmp2)
+)
+tmp4 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'output
+list(tmp1)
+)
+tmp2 = "outputParameter-info"
+list(tmp1 tmp2)
+)
+tmp5 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'instance
+list(tmp1)
+)
+tmp2 = "element-info"
+list(tmp1 tmp2)
+)
+tmp6 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'model
+list(tmp1)
+)
+tmp2 = "modelParameter-info"
+list(tmp1 tmp2)
+)
+tmp7 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'dcOpInfo
+list(tmp1)
+)
+tmp2 = "dcOpInfo-info"
+list(tmp1 tmp2)
+)
+tmp8 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'dcOp
+list(tmp1)
+)
+tmp2 = "dcOp-dc"
+list(tmp1 tmp2)
+)
+tmp9 = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1)
+tmp1 = 'variables
+list(tmp1)
+)
+tmp2 = "variables"
+list(tmp1 tmp2)
+)
+list(tmp1 tmp2 tmp3 tmp4 tmp5 tmp6 tmp7 tmp8 tmp9)
+)
+printInfoDpl->context->simulator = "spectre"
+printInfoDpl->realExpList = nil
+printInfoDpl->saveLoadFile = "/w/home.17/ee/grad/stark/ee215d/215d/Rontest/spectre_state1/printSetup.state"
