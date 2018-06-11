@@ -51,7 +51,7 @@
 		<currentmode>Single Run, Sweeps and Corners</currentmode>
 		<overwritehistory>0</overwritehistory>
 		<tests>
-			<test>215d:SAR_Test_1:1
+			<test>f
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
@@ -70,7 +70,7 @@
 						<value>$AXL_SETUPDB_DIR/test_states</value>
 					</option>
 					<option>state
-						<value>215d:SAR_Test_1:1_active</value>
+						<value>f_active</value>
 					</option>
 				</tooloptions>
 				<origoptions>
@@ -116,7 +116,7 @@
 				<value>yes</value>
 			</plottingoption>
 			<plottingoption>autoplotmode
-				<value>Replace</value>
+				<value>Append</value>
 			</plottingoption>
 			<plottingoption>annotatedesignname
 				<value>yes</value>
@@ -148,7 +148,7 @@
 		</plottingoptions>
 	</active>
 	<history>History
-		<historyentry>Interactive.51
+		<historyentry>Interactive.91
 			<checkpoint>
 				<corners>
 					<corner enabled="1">_default</corner>
@@ -200,7 +200,7 @@
 				<currentmode>Single Run, Sweeps and Corners</currentmode>
 				<overwritehistory>0</overwritehistory>
 				<tests>
-					<test>215d:SAR_Test_1:1
+					<test>f
 						<tool>ADE</tool>
 						<tooloptions>
 							<option>cell
@@ -219,7 +219,7 @@
 								<value>$AXL_SETUPDB_DIR/test_states</value>
 							</option>
 							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.51</value>
+								<value>f_spectre_state1_Interactive.91</value>
 							</option>
 						</tooloptions>
 						<origoptions>
@@ -265,7 +265,7 @@
 						<value>yes</value>
 					</plottingoption>
 					<plottingoption>autoplotmode
-						<value>Replace</value>
+						<value>Append</value>
 					</plottingoption>
 					<plottingoption>annotatedesignname
 						<value>yes</value>
@@ -296,22 +296,22 @@
 					</plottingoption>
 				</plottingoptions>
 			</checkpoint>
-			<timestamp>Fri Jun 8 21:44:52 2018</timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.51.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.51.rdb</simresults>
+			<timestamp>Sun Jun 10 23:18:05 2018</timestamp>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.91.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.91.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_214452979</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.51</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.51</simdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_231805882</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.91</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.91</simdir>
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.51.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.51.log</runlogfile>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.91.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.91.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
-		<historyentry>Interactive.52
+		<historyentry>Interactive.92
 			<checkpoint>
 				<corners>
 					<corner enabled="1">_default</corner>
@@ -363,7 +363,7 @@
 				<currentmode>Single Run, Sweeps and Corners</currentmode>
 				<overwritehistory>0</overwritehistory>
 				<tests>
-					<test>215d:SAR_Test_1:1
+					<test>f
 						<tool>ADE</tool>
 						<tooloptions>
 							<option>cell
@@ -382,7 +382,7 @@
 								<value>$AXL_SETUPDB_DIR/test_states</value>
 							</option>
 							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.52</value>
+								<value>f_spectre_state1_Interactive.92</value>
 							</option>
 						</tooloptions>
 						<origoptions>
@@ -428,7 +428,7 @@
 						<value>yes</value>
 					</plottingoption>
 					<plottingoption>autoplotmode
-						<value>Replace</value>
+						<value>Append</value>
 					</plottingoption>
 					<plottingoption>annotatedesignname
 						<value>yes</value>
@@ -459,22 +459,22 @@
 					</plottingoption>
 				</plottingoptions>
 			</checkpoint>
-			<timestamp>Fri Jun 8 21:50:56 2018</timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.52.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.52.rdb</simresults>
+			<timestamp>Sun Jun 10 23:22:15 2018</timestamp>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.92.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.92.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_215056838</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.52</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.52</simdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_232215385</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.92</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.92</simdir>
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.52.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.52.log</runlogfile>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.92.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.92.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
-		<historyentry>Interactive.53
+		<historyentry>Interactive.93
 			<checkpoint>
 				<corners>
 					<corner enabled="1">_default</corner>
@@ -526,7 +526,7 @@
 				<currentmode>Single Run, Sweeps and Corners</currentmode>
 				<overwritehistory>0</overwritehistory>
 				<tests>
-					<test>215d:SAR_Test_1:1
+					<test>f
 						<tool>ADE</tool>
 						<tooloptions>
 							<option>cell
@@ -545,7 +545,7 @@
 								<value>$AXL_SETUPDB_DIR/test_states</value>
 							</option>
 							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.53</value>
+								<value>f_spectre_state1_Interactive.93</value>
 							</option>
 						</tooloptions>
 						<origoptions>
@@ -591,7 +591,7 @@
 						<value>yes</value>
 					</plottingoption>
 					<plottingoption>autoplotmode
-						<value>Replace</value>
+						<value>Append</value>
 					</plottingoption>
 					<plottingoption>annotatedesignname
 						<value>yes</value>
@@ -622,22 +622,22 @@
 					</plottingoption>
 				</plottingoptions>
 			</checkpoint>
-			<timestamp>Fri Jun 8 22:07:56 2018</timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.53.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.53.rdb</simresults>
+			<timestamp>Sun Jun 10 23:25:32 2018</timestamp>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.93.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.93.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_220756860</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.53</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.53</simdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_232532735</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.93</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.93</simdir>
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.53.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.53.log</runlogfile>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.93.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.93.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
-		<historyentry>Interactive.54
+		<historyentry>Interactive.94
 			<checkpoint>
 				<corners>
 					<corner enabled="1">_default</corner>
@@ -689,7 +689,7 @@
 				<currentmode>Single Run, Sweeps and Corners</currentmode>
 				<overwritehistory>0</overwritehistory>
 				<tests>
-					<test>215d:SAR_Test_1:1
+					<test>f
 						<tool>ADE</tool>
 						<tooloptions>
 							<option>cell
@@ -708,7 +708,7 @@
 								<value>$AXL_SETUPDB_DIR/test_states</value>
 							</option>
 							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.54</value>
+								<value>f_spectre_state1_Interactive.94</value>
 							</option>
 						</tooloptions>
 						<origoptions>
@@ -754,7 +754,7 @@
 						<value>yes</value>
 					</plottingoption>
 					<plottingoption>autoplotmode
-						<value>Replace</value>
+						<value>Append</value>
 					</plottingoption>
 					<plottingoption>annotatedesignname
 						<value>yes</value>
@@ -785,22 +785,22 @@
 					</plottingoption>
 				</plottingoptions>
 			</checkpoint>
-			<timestamp>Fri Jun 8 22:25:35 2018</timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.54.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.54.rdb</simresults>
+			<timestamp>Sun Jun 10 23:30:24 2018</timestamp>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.94.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.94.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_222535347</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.54</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.54</simdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_233024206</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.94</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.94</simdir>
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.54.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.54.log</runlogfile>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.94.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.94.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
-		<historyentry>Interactive.55
+		<historyentry>Interactive.95
 			<checkpoint>
 				<corners>
 					<corner enabled="1">_default</corner>
@@ -852,7 +852,7 @@
 				<currentmode>Single Run, Sweeps and Corners</currentmode>
 				<overwritehistory>0</overwritehistory>
 				<tests>
-					<test>215d:SAR_Test_1:1
+					<test>f
 						<tool>ADE</tool>
 						<tooloptions>
 							<option>cell
@@ -871,7 +871,7 @@
 								<value>$AXL_SETUPDB_DIR/test_states</value>
 							</option>
 							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.55</value>
+								<value>f_spectre_state1_Interactive.95</value>
 							</option>
 						</tooloptions>
 						<origoptions>
@@ -917,7 +917,7 @@
 						<value>yes</value>
 					</plottingoption>
 					<plottingoption>autoplotmode
-						<value>Replace</value>
+						<value>Append</value>
 					</plottingoption>
 					<plottingoption>annotatedesignname
 						<value>yes</value>
@@ -948,22 +948,22 @@
 					</plottingoption>
 				</plottingoptions>
 			</checkpoint>
-			<timestamp>Fri Jun 8 22:35:18 2018</timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.55.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.55.rdb</simresults>
+			<timestamp>Sun Jun 10 23:40:35 2018</timestamp>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.95.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.95.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_223518609</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.55</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.55</simdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_234035122</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.95</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.95</simdir>
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.55.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.55.log</runlogfile>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.95.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.95.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
-		<historyentry>Interactive.56
+		<historyentry>Interactive.96
 			<checkpoint>
 				<corners>
 					<corner enabled="1">_default</corner>
@@ -1015,7 +1015,7 @@
 				<currentmode>Single Run, Sweeps and Corners</currentmode>
 				<overwritehistory>0</overwritehistory>
 				<tests>
-					<test>215d:SAR_Test_1:1
+					<test>f
 						<tool>ADE</tool>
 						<tooloptions>
 							<option>cell
@@ -1034,7 +1034,7 @@
 								<value>$AXL_SETUPDB_DIR/test_states</value>
 							</option>
 							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.56</value>
+								<value>f_spectre_state1_Interactive.96</value>
 							</option>
 						</tooloptions>
 						<origoptions>
@@ -1080,7 +1080,7 @@
 						<value>yes</value>
 					</plottingoption>
 					<plottingoption>autoplotmode
-						<value>Replace</value>
+						<value>Append</value>
 					</plottingoption>
 					<plottingoption>annotatedesignname
 						<value>yes</value>
@@ -1111,349 +1111,23 @@
 					</plottingoption>
 				</plottingoptions>
 			</checkpoint>
-			<timestamp>Fri Jun 8 22:43:15 2018</timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.56.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.56.rdb</simresults>
-			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
-			<netlistdelstrategy>SaveAll</netlistdelstrategy>
-			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_224315478</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.56</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.56</simdir>
-			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.56.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.56.log</runlogfile>
-			<schematicpoint></schematicpoint>
-			<test>all</test>
-		</historyentry>
-		<historyentry>Interactive.57
-			<checkpoint>
-				<corners>
-					<corner enabled="1">_default</corner>
-				</corners>
-				<extensions>
-					<extension>Parasitics
-						<callback>_parSetupDBExtensionCB</callback>
-						<iconvalue></iconvalue>
-						<icontype></icontype>
-						<active>
-							<mode>No Parasitics</mode>
-							<parameters>
-								<device>
-									<enabled>0</enabled>
-								</device>
-								<parasitic>
-									<enabled>0</enabled>
-								</parasitic>
-							</parameters>
-						</active>
-						<modes>
-							<mode>Schematic Estimates
-								<schematic>
-									<lib>215d</lib>
-									<cell>SAR_Test_1</cell>
-									<view>schematic</view>
-								</schematic>
-								<parasitic>
-									<lib>215d</lib>
-									<cell>SAR_Test_1</cell>
-									<view>estimated</view>
-								</parasitic>
-							</mode>
-							<mode>Extracted
-								<schematic>
-									<lib>215d</lib>
-									<cell>SAR_Test_1</cell>
-									<view>schematic</view>
-								</schematic>
-								<parasitic>
-									<lib>215d</lib>
-									<cell>SAR_Test_1</cell>
-									<view>&lt;None&gt;</view>
-								</parasitic>
-							</mode>
-						</modes>
-					</extension>
-				</extensions>
-				<currentmode>Single Run, Sweeps and Corners</currentmode>
-				<overwritehistory>0</overwritehistory>
-				<tests>
-					<test>215d:SAR_Test_1:1
-						<tool>ADE</tool>
-						<tooloptions>
-							<option>cell
-								<value>SAR_Test_1</value>
-							</option>
-							<option>lib
-								<value>215d</value>
-							</option>
-							<option>sim
-								<value>spectre</value>
-							</option>
-							<option>view
-								<value>schematic</value>
-							</option>
-							<option>path
-								<value>$AXL_SETUPDB_DIR/test_states</value>
-							</option>
-							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.57</value>
-							</option>
-						</tooloptions>
-						<origoptions>
-							<option>cell
-								<value>SAR_Test_1</value>
-							</option>
-							<option>lib
-								<value>215d</value>
-							</option>
-							<option>sim
-								<value>spectre</value>
-							</option>
-							<option>view
-								<value>schematic</value>
-							</option>
-							<option>path
-								<value>$AXL_SETUPDB_DIR/test_states</value>
-							</option>
-							<option>state
-								<value>spectre_state1</value>
-							</option>
-						</origoptions>
-					</test>
-				</tests>
-				<overwritehistoryname>Interactive.0</overwritehistoryname>
-				<plottingoptions>
-					<plottingoption>plottype
-						<value>None</value>
-					</plottingoption>
-					<plottingoption>usewaveformtemplate
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>waveformtemplate
-						<value></value>
-					</plottingoption>
-					<plottingoption>autoplotsignals
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>autoplotwaveexpr
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>autoplotscalarexpr
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>autoplotmode
-						<value>Replace</value>
-					</plottingoption>
-					<plottingoption>annotatedesignname
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>annotatesimdate
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>annotatetemperature
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>annotatedesignvars
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>annotatescalaroutputs
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>annotatespecmarkers
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>directplotmode
-						<value>Append</value>
-					</plottingoption>
-					<plottingoption>directplotafter
-						<value>All Selections Are Made</value>
-					</plottingoption>
-					<plottingoption>printafter
-						<value>Each Selection</value>
-					</plottingoption>
-				</plottingoptions>
-			</checkpoint>
-			<timestamp>Fri Jun 8 22:54:15 2018</timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.57.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.57.rdb</simresults>
-			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
-			<netlistdelstrategy>SaveAll</netlistdelstrategy>
-			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_225415401</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.57</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.57</simdir>
-			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.57.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.57.log</runlogfile>
-			<schematicpoint></schematicpoint>
-			<test>all</test>
-		</historyentry>
-		<historyentry>Interactive.58
-			<checkpoint>
-				<corners>
-					<corner enabled="1">_default</corner>
-				</corners>
-				<extensions>
-					<extension>Parasitics
-						<callback>_parSetupDBExtensionCB</callback>
-						<iconvalue></iconvalue>
-						<icontype></icontype>
-						<active>
-							<mode>No Parasitics</mode>
-							<parameters>
-								<device>
-									<enabled>0</enabled>
-								</device>
-								<parasitic>
-									<enabled>0</enabled>
-								</parasitic>
-							</parameters>
-						</active>
-						<modes>
-							<mode>Schematic Estimates
-								<schematic>
-									<lib>215d</lib>
-									<cell>SAR_Test_1</cell>
-									<view>schematic</view>
-								</schematic>
-								<parasitic>
-									<lib>215d</lib>
-									<cell>SAR_Test_1</cell>
-									<view>estimated</view>
-								</parasitic>
-							</mode>
-							<mode>Extracted
-								<schematic>
-									<lib>215d</lib>
-									<cell>SAR_Test_1</cell>
-									<view>schematic</view>
-								</schematic>
-								<parasitic>
-									<lib>215d</lib>
-									<cell>SAR_Test_1</cell>
-									<view>&lt;None&gt;</view>
-								</parasitic>
-							</mode>
-						</modes>
-					</extension>
-				</extensions>
-				<currentmode>Single Run, Sweeps and Corners</currentmode>
-				<overwritehistory>0</overwritehistory>
-				<tests>
-					<test>215d:SAR_Test_1:1
-						<tool>ADE</tool>
-						<tooloptions>
-							<option>cell
-								<value>SAR_Test_1</value>
-							</option>
-							<option>lib
-								<value>215d</value>
-							</option>
-							<option>sim
-								<value>spectre</value>
-							</option>
-							<option>view
-								<value>schematic</value>
-							</option>
-							<option>path
-								<value>$AXL_SETUPDB_DIR/test_states</value>
-							</option>
-							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.58</value>
-							</option>
-						</tooloptions>
-						<origoptions>
-							<option>cell
-								<value>SAR_Test_1</value>
-							</option>
-							<option>lib
-								<value>215d</value>
-							</option>
-							<option>sim
-								<value>spectre</value>
-							</option>
-							<option>view
-								<value>schematic</value>
-							</option>
-							<option>path
-								<value>$AXL_SETUPDB_DIR/test_states</value>
-							</option>
-							<option>state
-								<value>spectre_state1</value>
-							</option>
-						</origoptions>
-					</test>
-				</tests>
-				<overwritehistoryname>Interactive.0</overwritehistoryname>
-				<plottingoptions>
-					<plottingoption>plottype
-						<value>None</value>
-					</plottingoption>
-					<plottingoption>usewaveformtemplate
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>waveformtemplate
-						<value></value>
-					</plottingoption>
-					<plottingoption>autoplotsignals
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>autoplotwaveexpr
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>autoplotscalarexpr
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>autoplotmode
-						<value>Replace</value>
-					</plottingoption>
-					<plottingoption>annotatedesignname
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>annotatesimdate
-						<value>yes</value>
-					</plottingoption>
-					<plottingoption>annotatetemperature
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>annotatedesignvars
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>annotatescalaroutputs
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>annotatespecmarkers
-						<value>no</value>
-					</plottingoption>
-					<plottingoption>directplotmode
-						<value>Append</value>
-					</plottingoption>
-					<plottingoption>directplotafter
-						<value>All Selections Are Made</value>
-					</plottingoption>
-					<plottingoption>printafter
-						<value>Each Selection</value>
-					</plottingoption>
-				</plottingoptions>
-			</checkpoint>
-			<timestamp>Fri Jun  8 23:11:11 2018
+			<timestamp>Sun Jun 10 23:49:39 2018
 </timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.58.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.58.rdb</simresults>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.96.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.96.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_231111775</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.58</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.58</simdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_234939793</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.96</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.96</simdir>
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.58.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.58.log</runlogfile>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.96.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.96.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
-		<historyentry>Interactive.59
+		<historyentry>Interactive.97
 			<checkpoint>
 				<corners>
 					<corner enabled="1">_default</corner>
@@ -1505,7 +1179,7 @@
 				<currentmode>Single Run, Sweeps and Corners</currentmode>
 				<overwritehistory>0</overwritehistory>
 				<tests>
-					<test>215d:SAR_Test_1:1
+					<test>f
 						<tool>ADE</tool>
 						<tooloptions>
 							<option>cell
@@ -1524,7 +1198,7 @@
 								<value>$AXL_SETUPDB_DIR/test_states</value>
 							</option>
 							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.59</value>
+								<value>f_spectre_state1_Interactive.97</value>
 							</option>
 						</tooloptions>
 						<origoptions>
@@ -1570,7 +1244,7 @@
 						<value>yes</value>
 					</plottingoption>
 					<plottingoption>autoplotmode
-						<value>Replace</value>
+						<value>Append</value>
 					</plottingoption>
 					<plottingoption>annotatedesignname
 						<value>yes</value>
@@ -1601,23 +1275,23 @@
 					</plottingoption>
 				</plottingoptions>
 			</checkpoint>
-			<timestamp>Fri Jun  8 23:22:51 2018
+			<timestamp>Sun Jun 10 23:51:49 2018
 </timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.59.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.59.rdb</simresults>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.97.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.97.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_232251470</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.59</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.59</simdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_235149490</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.97</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.97</simdir>
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.59.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.59.log</runlogfile>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.97.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.97.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
-		<historyentry>Interactive.60
+		<historyentry>Interactive.98
 			<checkpoint>
 				<corners>
 					<corner enabled="1">_default</corner>
@@ -1669,7 +1343,7 @@
 				<currentmode>Single Run, Sweeps and Corners</currentmode>
 				<overwritehistory>0</overwritehistory>
 				<tests>
-					<test>215d:SAR_Test_1:1
+					<test>f
 						<tool>ADE</tool>
 						<tooloptions>
 							<option>cell
@@ -1688,7 +1362,7 @@
 								<value>$AXL_SETUPDB_DIR/test_states</value>
 							</option>
 							<option>state
-								<value>215d:SAR_Test_1:1_spectre_state1_Interactive.60</value>
+								<value>f_spectre_state1_Interactive.98</value>
 							</option>
 						</tooloptions>
 						<origoptions>
@@ -1734,7 +1408,7 @@
 						<value>yes</value>
 					</plottingoption>
 					<plottingoption>autoplotmode
-						<value>Replace</value>
+						<value>Append</value>
 					</plottingoption>
 					<plottingoption>annotatedesignname
 						<value>yes</value>
@@ -1765,19 +1439,347 @@
 					</plottingoption>
 				</plottingoptions>
 			</checkpoint>
-			<timestamp>Fri Jun  8 23:24:47 2018
+			<timestamp>Sun Jun 10 23:55:49 2018
 </timestamp>
-			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.60.rdb</resultsname>
-			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.60.rdb</simresults>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.98.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.98.rdb</simresults>
 			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
-			<localpsfdir>/tmp/eeapps03.seas.ucla.edu_stark_232447347</localpsfdir>
-			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.60</psfdir>
-			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.60</simdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_235549202</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.98</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.98</simdir>
 			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
-			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.60.log</runlog>
-			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.60.log</runlogfile>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.98.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.98.log</runlogfile>
+			<schematicpoint></schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry>Interactive.99
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+						<active>
+							<mode>No Parasitics</mode>
+							<parameters>
+								<device>
+									<enabled>0</enabled>
+								</device>
+								<parasitic>
+									<enabled>0</enabled>
+								</parasitic>
+							</parameters>
+						</active>
+						<modes>
+							<mode>Schematic Estimates
+								<schematic>
+									<lib>215d</lib>
+									<cell>SAR_Test_1</cell>
+									<view>schematic</view>
+								</schematic>
+								<parasitic>
+									<lib>215d</lib>
+									<cell>SAR_Test_1</cell>
+									<view>estimated</view>
+								</parasitic>
+							</mode>
+							<mode>Extracted
+								<schematic>
+									<lib>215d</lib>
+									<cell>SAR_Test_1</cell>
+									<view>schematic</view>
+								</schematic>
+								<parasitic>
+									<lib>215d</lib>
+									<cell>SAR_Test_1</cell>
+									<view>&lt;None&gt;</view>
+								</parasitic>
+							</mode>
+						</modes>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test>f
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>SAR_Test_1</value>
+							</option>
+							<option>lib
+								<value>215d</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>f_spectre_state1_Interactive.99</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>SAR_Test_1</value>
+							</option>
+							<option>lib
+								<value>215d</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>spectre_state1</value>
+							</option>
+						</origoptions>
+					</test>
+				</tests>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>autoplotsignals
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>autoplotwaveexpr
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>autoplotscalarexpr
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>autoplotmode
+						<value>Append</value>
+					</plottingoption>
+					<plottingoption>annotatedesignname
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>annotatesimdate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>annotatetemperature
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>annotatedesignvars
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>annotatescalaroutputs
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>annotatespecmarkers
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>directplotmode
+						<value>Append</value>
+					</plottingoption>
+					<plottingoption>directplotafter
+						<value>All Selections Are Made</value>
+					</plottingoption>
+					<plottingoption>printafter
+						<value>Each Selection</value>
+					</plottingoption>
+				</plottingoptions>
+			</checkpoint>
+			<timestamp>Mon Jun 11 00:20:54 2018
+</timestamp>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.99.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.99.rdb</simresults>
+			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_002054980</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.99</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.99</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.99.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.99.log</runlogfile>
+			<schematicpoint></schematicpoint>
+			<test>all</test>
+		</historyentry>
+		<historyentry>Interactive.100
+			<checkpoint>
+				<corners>
+					<corner enabled="1">_default</corner>
+				</corners>
+				<extensions>
+					<extension>Parasitics
+						<callback>_parSetupDBExtensionCB</callback>
+						<iconvalue></iconvalue>
+						<icontype></icontype>
+						<active>
+							<mode>No Parasitics</mode>
+							<parameters>
+								<device>
+									<enabled>0</enabled>
+								</device>
+								<parasitic>
+									<enabled>0</enabled>
+								</parasitic>
+							</parameters>
+						</active>
+						<modes>
+							<mode>Schematic Estimates
+								<schematic>
+									<lib>215d</lib>
+									<cell>SAR_Test_1</cell>
+									<view>schematic</view>
+								</schematic>
+								<parasitic>
+									<lib>215d</lib>
+									<cell>SAR_Test_1</cell>
+									<view>estimated</view>
+								</parasitic>
+							</mode>
+							<mode>Extracted
+								<schematic>
+									<lib>215d</lib>
+									<cell>SAR_Test_1</cell>
+									<view>schematic</view>
+								</schematic>
+								<parasitic>
+									<lib>215d</lib>
+									<cell>SAR_Test_1</cell>
+									<view>&lt;None&gt;</view>
+								</parasitic>
+							</mode>
+						</modes>
+					</extension>
+				</extensions>
+				<currentmode>Single Run, Sweeps and Corners</currentmode>
+				<overwritehistory>0</overwritehistory>
+				<tests>
+					<test>f
+						<tool>ADE</tool>
+						<tooloptions>
+							<option>cell
+								<value>SAR_Test_1</value>
+							</option>
+							<option>lib
+								<value>215d</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>f_spectre_state1_Interactive.100</value>
+							</option>
+						</tooloptions>
+						<origoptions>
+							<option>cell
+								<value>SAR_Test_1</value>
+							</option>
+							<option>lib
+								<value>215d</value>
+							</option>
+							<option>sim
+								<value>spectre</value>
+							</option>
+							<option>view
+								<value>schematic</value>
+							</option>
+							<option>path
+								<value>$AXL_SETUPDB_DIR/test_states</value>
+							</option>
+							<option>state
+								<value>spectre_state1</value>
+							</option>
+						</origoptions>
+					</test>
+				</tests>
+				<overwritehistoryname>Interactive.0</overwritehistoryname>
+				<plottingoptions>
+					<plottingoption>plottype
+						<value>None</value>
+					</plottingoption>
+					<plottingoption>usewaveformtemplate
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>waveformtemplate
+						<value></value>
+					</plottingoption>
+					<plottingoption>autoplotsignals
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>autoplotwaveexpr
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>autoplotscalarexpr
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>autoplotmode
+						<value>Append</value>
+					</plottingoption>
+					<plottingoption>annotatedesignname
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>annotatesimdate
+						<value>yes</value>
+					</plottingoption>
+					<plottingoption>annotatetemperature
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>annotatedesignvars
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>annotatescalaroutputs
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>annotatespecmarkers
+						<value>no</value>
+					</plottingoption>
+					<plottingoption>directplotmode
+						<value>Append</value>
+					</plottingoption>
+					<plottingoption>directplotafter
+						<value>All Selections Are Made</value>
+					</plottingoption>
+					<plottingoption>printafter
+						<value>Each Selection</value>
+					</plottingoption>
+				</plottingoptions>
+			</checkpoint>
+			<timestamp>Mon Jun 11 00:28:24 2018
+</timestamp>
+			<resultsname>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.100.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/data/Interactive.100.rdb</simresults>
+			<rawdatadelstrategy>SaveAll</rawdatadelstrategy>
+			<netlistdelstrategy>SaveAll</netlistdelstrategy>
+			<uselocalpsfdir>false</uselocalpsfdir>
+			<localpsfdir>/tmp/eeapps04.seas.ucla.edu_stark_002824027</localpsfdir>
+			<psfdir>/w/home.17/ee/grad/stark/simulation/215d/SAR_Test_1/adexl/results/data/Interactive.100</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215d/SAR_Test_1/adexl/results/data/Interactive.100</simdir>
+			<gendatasheetplotsonsimulation>1</gendatasheetplotsonsimulation>
+			<runlog>/w/home.17/ee/grad/stark/ee215d/215d/SAR_Test_1/adexl/results/data/Interactive.100.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/data/Interactive.100.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>
 		</historyentry>
