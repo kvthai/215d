@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      stark
+HostName                       eeapps05.seas.ucla.edu
+ProcessIdentifier              137824
+ProcessCreationTime_UTC        1528740560
+ProcessCreationTime_Readable   Mon Jun 11 11:09:20 2018 PDT
+AppIdentifier                  /w/apps3/Cadence/IC615/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /w/home.17/ee/grad/stark/ee215d/215d/two_switches/constraint/prop.cfg
+TimeEditLocked                 Mon Jun 11 11:24:36 2018 PDT

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      stark
+HostName                       eeapps05.seas.ucla.edu
+ProcessIdentifier              137824
+ProcessCreationTime_UTC        1528740564
+ProcessCreationTime_Readable   Mon Jun 11 11:09:24 2018 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.17/ee/grad/stark/ee215d/215d/Digital_Control/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Mon Jun 11 11:15:10 2018 PDT

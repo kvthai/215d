@@ -1,0 +1,20 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun Jun 17 02:20:51 2018 
+Best design point: 1
+Design specs: 
+	215d:ComparatorTests:1	corner	Nominal - 
+	Power		246.5u
+	SROut		3.463u
+	Out_N		1.1
+	Out_P		463.9u
+	I5.PM0:cgg		4.071f
+Design parameters: 
+	cur		35
+	fing		30
+
+Interactive.4
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.4 completed. 
+Current time: Sun Jun 17 02:20:58 2018 

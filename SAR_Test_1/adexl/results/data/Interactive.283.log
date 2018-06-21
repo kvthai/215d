@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun Jun 17 02:53:46 2018 
+Best design point: 1
+Design specs: 
+	f	corner	Nominal - 
+	((abs(average(i("/V1/MINUS" ?result "tran"))) * 1.1) + (abs(average(i("/V2/MINUS" ?result "tran"))) * 1))		789.2u
+Design parameters: 
+
+Interactive.283
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.283 completed. 
+Current time: Sun Jun 17 02:55:24 2018 

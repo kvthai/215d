@@ -1,0 +1,20 @@
+Starting Monte Carlo Sampling...
+
+Current time: Fri Jun 15 19:57:50 2018 
+Best design point: 1
+Design specs: 
+	215d:ComparatorTests:1	corner	Nominal - 
+	Power		342.8u
+	SROut		-256.1n
+	Out_N		1.1
+	Out_P		343.2u
+	I5.PM0:cgg		4.137f
+Design parameters: 
+	cur		35
+	fing		30
+
+MonteCarlo.9
+Number of points completed: 100
+Number of simulation errors: 0
+MonteCarlo.9 completed. 
+Current time: Fri Jun 15 20:00:29 2018 
